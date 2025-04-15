@@ -1,0 +1,9 @@
+digraph {
+	rankdir=TB
+	1839349789568 [label="Silica
+≤ 50.00" shape=oval]
+	1839349789568 -> 1839355104464
+	1839355104464 [label="Class: Sedimentary" shape=box]
+	1839349789568 -> 1839355104784
+	1839355104784 [label="Class: Igneous" shape=box]
+}
