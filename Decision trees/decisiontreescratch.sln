@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "decisiontreescratch", "decisiontreescratch.vcxproj", "{94E1142B-C291-4B69-8453-659D34F7748C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94E1142B-C291-4B69-8453-659D34F7748C}.Debug|x64.ActiveCfg = Debug|x64
+		{94E1142B-C291-4B69-8453-659D34F7748C}.Debug|x64.Build.0 = Debug|x64
+		{94E1142B-C291-4B69-8453-659D34F7748C}.Debug|x86.ActiveCfg = Debug|Win32
+		{94E1142B-C291-4B69-8453-659D34F7748C}.Debug|x86.Build.0 = Debug|Win32
+		{94E1142B-C291-4B69-8453-659D34F7748C}.Release|x64.ActiveCfg = Release|x64
+		{94E1142B-C291-4B69-8453-659D34F7748C}.Release|x64.Build.0 = Release|x64
+		{94E1142B-C291-4B69-8453-659D34F7748C}.Release|x86.ActiveCfg = Release|Win32
+		{94E1142B-C291-4B69-8453-659D34F7748C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6A6FB05-51F8-4EC7-8A86-11B7B715F018}
+	EndGlobalSection
+EndGlobal
